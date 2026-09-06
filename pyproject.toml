@@ -1,0 +1,8 @@
+[project]
+name = "ai-engineering-ecosystem-analysis"
+version = "1.0.0"
+description = "Análise descritiva de repositórios de engenharia de IA"
+requires-python = ">=3.10"
+
+[tool.unittest]
+start-directory = "tests"
